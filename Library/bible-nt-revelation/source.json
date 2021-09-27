@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-revelation",
+	"Title": {
+		"default": "Revelation",
+		"SBLGNT": "ΑΠΟΚΑΛΥΨΙΣ ΙΩΑΝΝΟΥ"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

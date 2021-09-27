@@ -1,0 +1,15 @@
+{
+	"Abbreviation": "bible-nt-thessalonians-2",
+	"Title": {
+		"default": "2 Thessalonians",
+		"SBLGNT": "ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ Β",
+		"fra": "2 Thessaloniciens"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

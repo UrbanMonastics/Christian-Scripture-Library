@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-acts",
+	"Title": {
+		"default": "Acts",
+		"SBLGNT": "ΠΡΑΞΕΙΣ ΑΠΟΣΤΟΛΩΝ"
+	},
+	"Description": "The book picks up at the conclusion of Lukes Gospel.",
+	"Type": "Book",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

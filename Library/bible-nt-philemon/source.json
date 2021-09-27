@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-philemon",
+	"Title": {
+		"default": "Philemon",
+		"SBLGNT": "ΠΡΟΣ ΦΙΛΗΜΟΝΑ"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "None",
+	"Verses": true,
+	"Notes": ""
+}

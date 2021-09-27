@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-luke",
+	"Title": {
+		"default": "Luke",
+		"SBLGNT": "ΚΑΤΑ ΛΟΥΚΑΝ"
+	},
+	"Description": "",
+	"Type": "Book",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-corinthians-1",
+	"Title": {
+		"default": "1 Corinthians",
+		"SBLGNT": "ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Α"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

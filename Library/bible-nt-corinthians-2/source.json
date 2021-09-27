@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-corinthians-2",
+	"Title": {
+		"default": "2 Corinthians",
+		"SBLGNT": "ΠΡΟΣ ΚΟΡΙΝΘΙΟΥΣ Β"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

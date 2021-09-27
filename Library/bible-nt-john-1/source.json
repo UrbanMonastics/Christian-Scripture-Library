@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-john-1",
+	"Title": {
+		"default": "1 John",
+		"SBLGNT": "ΙΩΑΝΝΟΥ Α"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-galatians",
+	"Title": {
+		"default": "Galatians",
+		"SBLGNT": "ΠΡΟΣ ΓΑΛΑΤΑΣ"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

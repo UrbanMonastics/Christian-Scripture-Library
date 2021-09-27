@@ -1,0 +1,13 @@
+{
+	"Abbreviation": "bible",
+	"Title": {
+		"default": "Holy Bible",
+		"eng": "Holy Bible",
+		"fra-sta": "Sainte Bible"
+	},
+	"Description": "The Bible",
+	"Order": [
+		"bible-ot",
+		"bible-nt"
+	]
+}

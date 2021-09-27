@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-peter-1",
+	"Title": {
+		"default": "1 Peter",
+		"SBLGNT": "ΠΕΤΡΟΥ A"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-jude",
+	"Title": {
+		"default": "Jude",
+		"SBLGNT": "ΙΟΥΔΑ"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "None",
+	"Verses": true,
+	"Notes": ""
+}

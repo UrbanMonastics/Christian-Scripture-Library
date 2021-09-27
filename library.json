@@ -1,0 +1,13 @@
+{
+	"Title": {
+		"default": "Christian Scripture Library",
+		"eng": "Christian Scripture Library",
+		"fra": "Bibliothèque des Biblique Chrétiennes"
+	},
+    "description": {
+		"default": "A library of various free to use christian bibles and scriptures.",
+		"eng": "A library of various free to use christian bibles and scriptures.",
+		"fra": "Une bibliothèque de diverses bibles chrétiennes à utiliser gratuitement."
+	},
+    "Notes": "As we import and collect the various bibles and sources we should include them here."
+}

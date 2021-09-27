@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-philippians",
+	"Title": {
+		"default": "Philippians",
+		"SBLGNT": "ΠΡΟΣ ΦΙΛΙΠΠΗΣΙΟΥΣ"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

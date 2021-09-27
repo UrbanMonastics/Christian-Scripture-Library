@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-ephesians",
+	"Title": {
+		"default": "Ephesians",
+		"SBLGNT": "ΠΡΟΣ ΕΦΕΣΙΟΥΣ"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

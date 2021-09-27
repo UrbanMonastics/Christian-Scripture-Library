@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-hebrews",
+	"Title": {
+		"default": "Hebrews",
+		"SBLGNT": "ΠΡΟΣ ΕΒΡΑΙΟΥΣ"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

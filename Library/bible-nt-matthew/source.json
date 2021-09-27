@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-matthew",
+	"Title": {
+		"default": "Matthew",
+		"SBLGNT": "ΚΑΤΑ ΜΑΘΘΑΙΟΝ"
+	},
+	"Description": "",
+	"Type": "Book",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

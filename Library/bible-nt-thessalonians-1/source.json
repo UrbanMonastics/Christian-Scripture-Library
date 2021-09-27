@@ -1,0 +1,15 @@
+{
+	"Abbreviation": "bible-nt-thessalonians-1",
+	"Title": {
+		"default": "1 Thessalonians",
+		"SBLGNT": "ΠΡΟΣ ΘΕΣΣΑΛΟΝΙΚΕΙΣ A",
+		"fra": "1 Thessaloniciens"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

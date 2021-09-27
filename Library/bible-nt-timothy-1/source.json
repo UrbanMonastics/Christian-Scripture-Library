@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-timothy-1",
+	"Title": {
+		"default": "1 Timothy",
+		"SBLGNT": "ΠΡΟΣ ΤΙΜΟΘΕΟΝ Α"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

@@ -1,0 +1,7 @@
+{
+    "name": "urbanmonastics/christian-scripture-library",
+    "description": "A collection of public domain christian scriptures for inclusion in projects.",
+    "type": "library",
+    "license": "MIT",
+    "require": {}
+}

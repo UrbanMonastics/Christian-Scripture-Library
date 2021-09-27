@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-mark",
+	"Title": {
+		"default": "Mark",
+		"SBLGNT": "ΚΑΤΑ ΜΑΡΚΟΝ"
+	},
+	"Description": "",
+	"Type": "Book",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

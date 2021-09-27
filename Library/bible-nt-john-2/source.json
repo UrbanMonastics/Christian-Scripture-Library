@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-john-2",
+	"Title": {
+		"default": "2 John",
+		"SBLGNT": "ΙΩΑΝΝΟΥ Β"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "None",
+	"Verses": true,
+	"Notes": ""
+}

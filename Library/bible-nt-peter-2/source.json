@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-peter-2",
+	"Title": {
+		"default": "2 Peter",
+		"SBLGNT": "ΠΕΤΡΟΥ Β"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-titus",
+	"Title": {
+		"default": "Titus",
+		"SBLGNT": "ΠΡΟΣ ΤΙΤΟΝ"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

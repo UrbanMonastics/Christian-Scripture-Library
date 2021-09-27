@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-james",
+	"Title": {
+		"default": "James",
+		"SBLGNT": "ΙΑΚΩΒΟΥ"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

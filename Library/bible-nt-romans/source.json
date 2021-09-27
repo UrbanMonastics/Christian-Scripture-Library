@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-romans",
+	"Title": {
+		"default":"Romans",
+		"SBLGNT": "ΠΡΟΣ ΡΩΜΑΙΟΥΣ"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

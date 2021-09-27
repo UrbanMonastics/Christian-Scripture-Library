@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-timothy-2",
+	"Title": {
+		"default": "2 Timothy",
+		"SBLGNT": "ΠΡΟΣ ΤΙΜΟΘΕΟΝ Β"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "Chapters",
+	"Verses": true,
+	"Notes": ""
+}

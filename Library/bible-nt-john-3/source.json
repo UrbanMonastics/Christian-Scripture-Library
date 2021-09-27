@@ -1,0 +1,14 @@
+{
+	"Abbreviation": "bible-nt-john-3",
+	"Title": {
+		"default": "3 John",
+		"SBLGNT": "ΙΩΑΝΝΟΥ Γ"
+	},
+	"Description": "",
+	"Type": "Letter",
+	"Language": "grc-koi",
+	"Version": "Original",
+	"Segments": "None",
+	"Verses": true,
+	"Notes": ""
+}
